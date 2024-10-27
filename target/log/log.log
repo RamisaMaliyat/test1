@@ -1,0 +1,36 @@
+2024-10-27 09:28:45 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./src/test/resources}
+2024-10-27 09:28:45 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-10-27 09:28:50 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-10-27 09:28:50 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-10-27 09:28:50 INFO  - Browser 'CHROME' ready...
+2024-10-27 09:28:50 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-10-27 09:28:50 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-10-27 09:28:50 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-10-27 09:28:50 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-10-27 09:28:50 INFO  - Browser 'CHROME' ready...
+2024-10-27 09:28:50 INFO  - Browser 'CHROME' ready...
+2024-10-27 09:28:50 INFO  - Maximizing browser window
+2024-10-27 09:28:50 INFO  - Maximizing browser window
+2024-10-27 09:28:50 INFO  - Maximizing browser window
+2024-10-27 09:28:51 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2024-10-27 09:28:51 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2024-10-27 09:28:51 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2024-10-27 09:28:54 INFO  - Text Field 'Name_To_Search' :: Sending keys 'Albert Einstein'
+2024-10-27 09:28:54 INFO  - Text Field 'Name_To_Search' :: Sending keys 'Albert Einstein'
+2024-10-27 09:28:55 INFO  - Text Field 'Name_To_Search' :: Sending keys 'Albert Einstein'
+2024-10-27 09:28:55 INFO  - Button 'Search' :: Clicking
+2024-10-27 09:28:55 INFO  - Button 'SelectLanguage' :: Clicking
+2024-10-27 09:28:56 INFO  - Button 'Search' :: Clicking
+2024-10-27 09:28:56 INFO  - Button 'Search' :: Clicking
+2024-10-27 09:29:01 INFO  - Label 'success' :: Clicking via Javascript
+2024-10-27 09:29:02 INFO  - Button 'Page Information' :: Clicking
+2024-10-27 09:29:04 INFO  - Closing browser
+2024-10-27 09:29:04 INFO  - Label 'success' :: Clicking via Javascript
+2024-10-27 09:29:05 INFO  - Closing browser
+2024-10-27 09:29:05 INFO  - Button 'Download as PDF' :: Clicking
+2024-10-27 09:29:09 INFO  - Button 'Download as PDF' :: Clicking
+2024-10-27 09:29:10 INFO  - Button 'Downloaded File' :: Getting text from element
+2024-10-27 09:29:10 INFO  - Button 'Downloaded File' :: Element's text: [Albert_Einstein.pdf]
+2024-10-27 09:29:10 INFO  - Closing browser
